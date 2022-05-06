@@ -1,0 +1,1 @@
+<?php echo htmlentities("https://api.whatsapp.com/send?phone=numero&text=texto"); ?>
