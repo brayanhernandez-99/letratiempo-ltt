@@ -17,7 +17,7 @@ In short, Spectral's the culmination of several new things I'm working on/trying
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images you can use for pretty much whatever.
 
-# Credits:
+Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
