@@ -65,7 +65,7 @@
 					<p>Transporte Terrestre de Carga Seca y Líquida en Colombia</p>
 				</header>
 				<ul class="icons major">
-					<li><span class="icon fa-hand-holding-water major style1"><span class="label">Lorem</span></span></li>
+					<li><span class="icon fa-gem major style1"><span class="label">Lorem</span></span></li>
 					<li><span class="icon fa-heart major style2"><span class="label">Ipsum</span></span></li>
 					<li><span class="icon solid fa-code major style3"><span class="label">Dolor</span></span></li>
 				</ul>
