@@ -27,13 +27,12 @@
 						<div id="menu">
 							<ul>
 								<li><a href="index.php">Inicio</a></li>
-								<li><a href="generic.html">Generic</a></li>
 								<li><a href="???">Nosotros</a></li>
 								<li><a href="???">Cubrimiento</a></li>
 								<li><a href="???">Control Vehicular</a></li>
-								<li><a href="???">Agencias</a></li>
-								<li><a href="???">Alineacion y Asociados</a></li>
-								<li><a href="???">Contacto</a></li>
+								<li><a href="#agencies">Agencias</a></li>
+								<li><a href="elements.html">Alineacion y Asociados</a></li>
+								<li><a href="generic.html">Contacto</a></li>
 							</ul>
 						</div>
 					</li>
@@ -61,16 +60,16 @@
 		</section>
 
 		<!-- One -->
-		<section id="one" class="wrapper style1 special">
+		<section id="one" class="wrapper style2 special">
 			<div class="inner">
 				<header class="major">
 					<h2>Lo que hacemos por usted</h2>
 					<p>Transporte Terrestre de Carga Seca y Líquida en Colombia</p>
 				</header>
 				<ul class="icons major">
-					<li><span class="icon fa-gem major style1"><span class="label">Lorem</span></span></li>
-					<li><span class="icon fa-heart major style2"><span class="label">Ipsum</span></span></li>
-					<li><span class="icon solid fa-code major style3"><span class="label">Dolor</span></span></li>
+					<li><span class="icon solid fa-tint major style3"><span class="label">Dolor</span></span></li>
+					<li><span class="icon solid fa-box major style3"><span class="label">Dolor</span></span></li>
+					<li><span class="icon solid fa-map-marker-alt major style3"><span class="label">Dolor</span></span></li>
 				</ul>
 			</div>
 		</section>
@@ -80,94 +79,103 @@
 			<section class="spotlight">
 				<div class="image"><img src="images/pic01.jpg" alt="Carga Líquida" /></div>
 				<div class="content">
-					<h2>Carga Líquida</h2>
-					<p>Contamos con los equipos, infraestructura, experiencia y permisos para transportar:
-						<br>
-						Leche líquida, café, melaza, miel, agua, suero, aceite de palma, aceite de maíz, entre otros productos alimenticios.
-						<br>
-						También, otros productos como: Glicerina, soda caustica, aceite mineral, biodiesel, sebo, silicato, entre otros.
-					</p>
+					<header class="major">
+						<h2>Carga Líquida</h2>
+						<p>Contamos con los equipos, infraestructura, experiencia y permisos para transportar:
+							<br>
+							Leche líquida, café, melaza, miel, agua, suero, aceite de palma, aceite de maíz, entre otros productos alimenticios.
+							<br>
+							También, otros productos como: Glicerina, soda caustica, aceite mineral, biodiesel, sebo, silicato, entre otros.
+						</p>
+					</header>
 				</div>
 			</section>
 			<section class="spotlight">
 				<div class="image"><img src="images/pic02.jpg" alt="Carga Seca" /></div>
 				<div class="content">
-					<h2>Carga Seca</h2>
-					<p class="specialP">Entre los principales productos que hemos movilizado cabe destacar los siguientes:
-						<br>
-						Trigo, azúcar, maíz, chocolate, cacao, sal, alimentos empacados, pasta, harina de trigo, harina de arroz, harina de maíz, cebada, torta de soya, entre otros productos alimenticios.
-						<br>
-						También poseemos amplias operaciones de transporte de: Abono, tejas, hierro, yeso, urea, dolomita, chatarra, jabón y detergentes, laminas, carbón, madera, cal, empaquetados, estibas, fertilizantes, fibras sintéticas, tubería, entre otros.
-					</p>
+					<header class="major">
+						<h2>Carga Seca</h2>
+						<p>Entre los principales productos que hemos movilizado cabe destacar los siguientes:
+							<br>
+							Trigo, azúcar, maíz, chocolate, cacao, sal, alimentos empacados, pasta, harina de trigo, harina de arroz, harina de maíz, cebada, torta de soya, entre otros productos alimenticios.
+							<br>
+							También poseemos amplias operaciones de transporte de: Abono, tejas, hierro, yeso, urea, dolomita, chatarra, jabón y detergentes, laminas, carbón, madera, cal, empaquetados, estibas, fertilizantes, fibras sintéticas, tubería, entre otros.
+						</p>
+					</header>
 				</div>
 			</section>
 			<section class="spotlight">
 				<div class="image"><img src="images/pic03.jpg" alt="Localice su Carga" /></div>
 				<div class="content">
-					<h2>Localice su Carga</h2>
-					<p>Con el sistema inteligente para transporte de carga SITRAC.</p>
+					<header class="major">
+						<h2>Localice su Carga</h2>
+						<p>Con el sistema inteligente para transporte de carga SITRAC.</p>
+					</header>
 				</div>
 			</section>
 		</section>
 
 		<!-- Three -->
-		<section id="three" class="wrapper style3 special">
+		<section id="agencies" class="wrapper style2 special">
 			<div class="inner">
 				<header class="major">
 					<h2>Agencias</h2>
+					<p class="align-left">Tenemos cubrimiento en todo el todo el Territorio Nacional, operamos desde nuestras seis oficinas ubicadas en Barranquilla, Cartagena, Buenaventura, Buga, Manizales y Medellín,
+						nuestra misión es cumplir con las necesidades y expectativas de nuestros clientes, sólo contáctenos y cuéntenos cuáles son sus requerimientos que con gusto lo atenderemos.</p>
 				</header>
 				<ul class="features">
-					<li class="icon solid fa-home">
+					<li class="icon solid fa-industry">
 						<h3>Medellín</h3>
-						<p>• Calle 80 Número 67 – 02 Barrio Córdoba<br>
+						<p>
+							• Calle 80 Número 67 – 02 Barrio Córdoba<br>
 							• Tele-Fax Fijo: (604) 442 33 55 <br>
 							• Móvil: 310 426 6624 – 310 425 1129 <br>
 							• Email: comercial@letratiempo.com
 						</p>
 					</li>
-					<li class="icon solid fa-home">
+					<li class="icon solid fa-industry">
 						<h3>Barranquilla</h3>
 						<p>
 							• Carrera 19 # 31-25<br>
 							• Teléfono Fijo: (5) 309 3960<br>
 							• Móvil: 312 286 0223<br>
-							• Email: barranquilla@letratiempo.com<br>
+							• Email: barranquilla@letratiempo.com
 						</p>
 					</li>
-					<li class="icon solid fa-home">
+					<li class="icon solid fa-industry">
 						<h3>Cartagena</h3>
 						<p>
 							• Bosque Transversal 45 A # 21-33, Barrio El Bosque<br>
 							• Teléfono Fijo: (5) 693 50 20<br>
 							• Móvil: 310 373 3511 – <br>
-							  310 44388403<br>
-							• Email: cartagena@letratiempo.com<br>
+							310 44388403<br>
+							• Email: cartagena@letratiempo.com
 						</p>
 					</li>
-					<li class="icon solid fa-home">
+					<li class="icon solid fa-industry">
 						<h3>Buenaventura</h3>
 						<p>
 							• Estación de Servicio Combured – Centracar Kilómetro 8 + 650
 							Contiguo CELPA – Vía Alterna Interna<br>
 							• Teléfono Fijo:(2) 241 4170<br>
 							• Móvil: 311 330 7296 – 313 737 2562 – 311 330 7290<br>
-							• Email: comercial@letratiempo.com<br>
+							• Email: comercial@letratiempo.com
 						</p>
 					</li>
-					<li class="icon solid fa-home">
+					<li class="icon solid fa-industry">
 						<h3>Manizales</h3>
 						<p>
 							• Calle 110 # 34 A-75, Barrio La Enea<br>
-							• Móvil: 311 349 6522 – 311 330 7305 – 311 349 6493
+							• Móvil: 311 349 6522 – 311 330 7305 – 311 349 6493<br>
 							• Email: manizales@lttletratiempo.com – manizales2@lttletratiempo.com
 						</p>
 					</li>
-					<li class="icon solid fa-home">
+					<li class="icon solid fa-industry">
 						<h3>Buga</h3>
 						<p>
-							• Carrera 24 # 13-35 Barrio Palo Blanco
-							• Teléfono: (2) 239 16 01
-							• Móvil: 311 330 7331
+							• Carrera 24 # 13-35 Barrio Palo Blanco<br>
+							• Teléfono: (2) 239 16 01<br>
+							• Móvil: 311 330 7331<br>
 							• Email: agenciabuga@lttletratiempo.com
 						</p>
 					</li>
@@ -175,7 +183,7 @@
 			</div>
 		</section>
 
-		<!-- CTA -->
+		<!-- CTA 
 		<section id="cta" class="wrapper style4">
 			<div class="inner">
 				<header>
@@ -188,19 +196,18 @@
 				</ul>
 			</div>
 		</section>
+		-->
 
 		<!-- Footer -->
 		<footer id="footer">
-			<ul class="icons">
-				<li><a href="#" class="icon brands fa-whatsapp"><span class="label">WhatsApp</span></a></li>
-				<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-				<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-				<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
-				<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
-			</ul>
 			<ul class="copyright">
-				<li>&copy; Untitled</li>
-				<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				<li><a href="<?php echo htmlentities("https://api.whatsapp.com/send?phone=573192031330"); ?>" target="_blank">Design</a></li>
+				<li>Todos los derechos reservados 2018 &copy; LETRATIEMPO S.A.S</li>
+			</ul>
+			<ul class="icons">
+				<li><a href="<?php include 'resources\whatsApp.php' ?>" class="icon brands fa-whatsapp" target="_blank"><span class="label">WhatsApp</span></a></li>
+				<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+				<li><a href="https://letratiempoltt.com/" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
 			</ul>
 		</footer>
 
@@ -217,4 +224,4 @@
 
 </body>
 
-</html> 
+</html>
