@@ -2893,7 +2893,7 @@ button:disabled,
 }
 
 .wrapper.style1 {
-  background-color: #21b2a6;
+  background-color: #991720;
   color: #c8ece9;
 }
 
@@ -3063,8 +3063,8 @@ button:disabled,
 }
 
 .wrapper.style3 {
-  background-color: #505393;
-  color: #d3d4e4;
+  background-color: #991720;
+  color: #ffffff;
 }
 
 .wrapper.style3 strong,
@@ -3444,7 +3444,7 @@ button:disabled,
   -ms-transition: -ms-transform 0.5s ease;
   transition: transform 0.5s ease;
   -webkit-overflow-scrolling: touch;
-  background: #21b2a6;
+  background: #991720;
   color: #ffffff;
   height: 100%;
   max-width: 80%;

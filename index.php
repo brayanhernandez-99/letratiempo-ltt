@@ -28,15 +28,12 @@
 							<ul>
 								<li><a href="index.php">Inicio</a></li>
 								<li><a href="generic.html">Generic</a></li>
-								<li><a href="???">Contactanos</a></li>
-								<li>
-									<ul>
-										<li><a href="index.php">Inicio</a></li>
-										<li><a href="generic.html">Generic</a></li>
-									</ul>
-								</li>
-								<li><a href="#">Sign Up</a></li>
-								<li><a href="#">Log In</a></li>
+								<li><a href="???">Nosotros</a></li>
+								<li><a href="???">Cubrimiento</a></li>
+								<li><a href="???">Control Vehicular</a></li>
+								<li><a href="???">Agencias</a></li>
+								<li><a href="???">Alineacion y Asociados</a></li>
+								<li><a href="???">Contacto</a></li>
 							</ul>
 						</div>
 					</li>
@@ -96,7 +93,7 @@
 				<div class="image"><img src="images/pic02.jpg" alt="Carga Seca" /></div>
 				<div class="content">
 					<h2>Carga Seca</h2>
-					<p>Entre los principales productos que hemos movilizado cabe destacar los siguientes:
+					<p class="specialP">Entre los principales productos que hemos movilizado cabe destacar los siguientes:
 						<br>
 						Trigo, azúcar, maíz, chocolate, cacao, sal, alimentos empacados, pasta, harina de trigo, harina de arroz, harina de maíz, cebada, torta de soya, entre otros productos alimenticios.
 						<br>
@@ -123,7 +120,7 @@
 					<li class="icon solid fa-home">
 						<h3>Medellín</h3>
 						<p>• Calle 80 Número 67 – 02 Barrio Córdoba<br>
-							• Tele-Fax Fijo: (4) 442 33 55 <br>
+							• Tele-Fax Fijo: (604) 442 33 55 <br>
 							• Móvil: 310 426 6624 – 310 425 1129 <br>
 							• Email: comercial@letratiempo.com
 						</p>
@@ -134,46 +131,45 @@
 							• Carrera 19 # 31-25<br>
 							• Teléfono Fijo: (5) 309 3960<br>
 							• Móvil: 312 286 0223<br>
-							• barranquilla@letratiempo.com<br>
+							• Email: barranquilla@letratiempo.com<br>
 						</p>
 					</li>
 					<li class="icon solid fa-home">
 						<h3>Cartagena</h3>
-						<ul>
-							<li>Bosque Transversal 45 A # 21-33, Barrio El Bosque</li>
-							<li>Teléfono Fijo: (5) 693 50 20</li>
-							<li>Móvil: 310 373 3511 – 310 4438840</li>
-							<li>Email: cartagena@letratiempo.com</li>
-						</ul>
+						<p>
+							• Bosque Transversal 45 A # 21-33, Barrio El Bosque<br>
+							• Teléfono Fijo: (5) 693 50 20<br>
+							• Móvil: 310 373 3511 – <br>
+							  310 44388403<br>
+							• Email: cartagena@letratiempo.com<br>
+						</p>
 					</li>
 					<li class="icon solid fa-home">
 						<h3>Buenaventura</h3>
-						<ul>
-							<li>Estación de Servicio Combured – Centracar Kilómetro 8 + 650
-								Contiguo CELPA – Vía Alterna Interna</li>
-							<li>Teléfono Fijo:(2) 241 4170</li>
-							<li>Móvil: 311 330 7296 – 313 737 2562 – 311 330 7290</li>
-							<li>Email: comercial@letratiempo.com</li>
-						</ul>
+						<p>
+							• Estación de Servicio Combured – Centracar Kilómetro 8 + 650
+							Contiguo CELPA – Vía Alterna Interna<br>
+							• Teléfono Fijo:(2) 241 4170<br>
+							• Móvil: 311 330 7296 – 313 737 2562 – 311 330 7290<br>
+							• Email: comercial@letratiempo.com<br>
+						</p>
 					</li>
 					<li class="icon solid fa-home">
 						<h3>Manizales</h3>
-						<ul>
-							<li>Calle 110 # 34 A-75, Barrio La Enea</li>
-							<li>Móvil: 311 349 6522 – 311 330 7305 – 311 349 6493</li>
-							<li>Email: manizales@lttletratiempo.com – manizales2@lttletratiempo.com</li>
-						</ul>
+						<p>
+							• Calle 110 # 34 A-75, Barrio La Enea<br>
+							• Móvil: 311 349 6522 – 311 330 7305 – 311 349 6493
+							• Email: manizales@lttletratiempo.com – manizales2@lttletratiempo.com
+						</p>
 					</li>
 					<li class="icon solid fa-home">
 						<h3>Buga</h3>
-						<ul>
-							<li>Carrera 24 # 13-35 Barrio Palo Blanco</li>
-							<li>Teléfono: (2) 239 16 01</li>
-							<li>Móvil: 311 330 7331</li>
-							<li>Email: agenciabuga@lttletratiempo.com</li>
-						</ul>
-						<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo
-							Aenean ligula consequat consequat.</p>
+						<p>
+							• Carrera 24 # 13-35 Barrio Palo Blanco
+							• Teléfono: (2) 239 16 01
+							• Móvil: 311 330 7331
+							• Email: agenciabuga@lttletratiempo.com
+						</p>
 					</li>
 				</ul>
 			</div>
