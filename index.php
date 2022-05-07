@@ -19,16 +19,22 @@
 
 		<!-- Header -->
 		<header id="header" class="alt">
-			<h1><a href="index.html">Letra Tiempo LTT</a></h1>
+			<h1><a href="index.php">Letra Tiempo LTT</a></h1>
 			<nav id="nav">
 				<ul>
 					<li class="special">
 						<a href="#menu" class="menuToggle"><span>Menu</span></a>
 						<div id="menu">
 							<ul>
-								<li><a href="index.html">Inicio</a></li>
+								<li><a href="index.php">Inicio</a></li>
 								<li><a href="generic.html">Generic</a></li>
 								<li><a href="???">Contactanos</a></li>
+								<li>
+									<ul>
+										<li><a href="index.php">Inicio</a></li>
+										<li><a href="generic.html">Generic</a></li>
+									</ul>
+								</li>
 								<li><a href="#">Sign Up</a></li>
 								<li><a href="#">Log In</a></li>
 							</ul>
@@ -47,7 +53,7 @@
 					conoce mas sobre nosotros y contactanos </p>
 				<ul class="actions special">
 					<li>
-						<a href="<?php include 'resources\whatsApp.php' ?>" target="_blank"> <img src="https://static.wixstatic.com/media/3b1150_a9e9b12e662c4c469c0cb593c63255ab~mv2.png/v1/fill/w_326,h_114,al_c,q_85,usm_0.66_1.00_0.01/BOTON%20WHATSAPP.webp" width="150" height="60"></a>
+						<a href="<?php include 'resources\whatsApp.php' ?>" target="_blank"><img src="https://static.wixstatic.com/media/3b1150_a9e9b12e662c4c469c0cb593c63255ab~mv2.png/v1/fill/w_326,h_114,al_c,q_85,usm_0.66_1.00_0.01/BOTON%20WHATSAPP.webp" width="160" height="60"></a>
 						<a href="https://www.whatsapp.com/?lang=es" class="button primary icon brands fa-whatsapp" target="_blank">Escribenos</a>
 					</li>
 				</ul>
@@ -75,30 +81,34 @@
 		<!-- Two -->
 		<section id="two" class="wrapper alt style2">
 			<section class="spotlight">
-				<div class="image"><img src="images/pic01.jpg" alt="" /></div>
+				<div class="image"><img src="images/pic01.jpg" alt="Carga Líquida" /></div>
 				<div class="content">
-					<h2>Magna primis lobortis<br />
-						sed ullamcorper</h2>
-					<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla
-						nullam aenean mi ligula.</p>
+					<h2>Carga Líquida</h2>
+					<p>Contamos con los equipos, infraestructura, experiencia y permisos para transportar:
+						<br>
+						Leche líquida, café, melaza, miel, agua, suero, aceite de palma, aceite de maíz, entre otros productos alimenticios.
+						<br>
+						También, otros productos como: Glicerina, soda caustica, aceite mineral, biodiesel, sebo, silicato, entre otros.
+					</p>
 				</div>
 			</section>
 			<section class="spotlight">
-				<div class="image"><img src="images/pic02.jpg" alt="" /></div>
+				<div class="image"><img src="images/pic02.jpg" alt="Carga Seca" /></div>
 				<div class="content">
-					<h2>Tortor dolore feugiat<br />
-						elementum magna</h2>
-					<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla
-						nullam aenean mi ligula.</p>
+					<h2>Carga Seca</h2>
+					<p>Entre los principales productos que hemos movilizado cabe destacar los siguientes:
+						<br>
+						Trigo, azúcar, maíz, chocolate, cacao, sal, alimentos empacados, pasta, harina de trigo, harina de arroz, harina de maíz, cebada, torta de soya, entre otros productos alimenticios.
+						<br>
+						También poseemos amplias operaciones de transporte de: Abono, tejas, hierro, yeso, urea, dolomita, chatarra, jabón y detergentes, laminas, carbón, madera, cal, empaquetados, estibas, fertilizantes, fibras sintéticas, tubería, entre otros.
+					</p>
 				</div>
 			</section>
 			<section class="spotlight">
-				<div class="image"><img src="images/pic03.jpg" alt="" /></div>
+				<div class="image"><img src="images/pic03.jpg" alt="Localice su Carga" /></div>
 				<div class="content">
-					<h2>Augue eleifend aliquet<br />
-						sed condimentum</h2>
-					<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla
-						nullam aenean mi ligula.</p>
+					<h2>Localice su Carga</h2>
+					<p>Con el sistema inteligente para transporte de carga SITRAC.</p>
 				</div>
 			</section>
 		</section>
@@ -107,38 +117,61 @@
 		<section id="three" class="wrapper style3 special">
 			<div class="inner">
 				<header class="major">
-					<h2>Accumsan mus tortor nunc aliquet</h2>
-					<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-						fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
+					<h2>Agencias</h2>
 				</header>
 				<ul class="features">
-					<li class="icon fa-paper-plane">
-						<h3>Arcu accumsan</h3>
-						<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo
-							Aenean ligula consequat consequat.</p>
+					<li class="icon solid fa-home">
+						<h3>Medellín</h3>
+						<p>• Calle 80 Número 67 – 02 Barrio Córdoba<br>
+							• Tele-Fax Fijo: (4) 442 33 55 <br>
+							• Móvil: 310 426 6624 – 310 425 1129 <br>
+							• Email: comercial@letratiempo.com
+						</p>
 					</li>
-					<li class="icon solid fa-laptop">
-						<h3>Ac Augue Eget</h3>
-						<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo
-							Aenean ligula consequat consequat.</p>
+					<li class="icon solid fa-home">
+						<h3>Barranquilla</h3>
+						<p>
+							• Carrera 19 # 31-25<br>
+							• Teléfono Fijo: (5) 309 3960<br>
+							• Móvil: 312 286 0223<br>
+							• barranquilla@letratiempo.com<br>
+						</p>
 					</li>
-					<li class="icon solid fa-code">
-						<h3>Mus Scelerisque</h3>
-						<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo
-							Aenean ligula consequat consequat.</p>
+					<li class="icon solid fa-home">
+						<h3>Cartagena</h3>
+						<ul>
+							<li>Bosque Transversal 45 A # 21-33, Barrio El Bosque</li>
+							<li>Teléfono Fijo: (5) 693 50 20</li>
+							<li>Móvil: 310 373 3511 – 310 4438840</li>
+							<li>Email: cartagena@letratiempo.com</li>
+						</ul>
 					</li>
-					<li class="icon solid fa-headphones-alt">
-						<h3>Mauris Imperdiet</h3>
-						<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo
-							Aenean ligula consequat consequat.</p>
+					<li class="icon solid fa-home">
+						<h3>Buenaventura</h3>
+						<ul>
+							<li>Estación de Servicio Combured – Centracar Kilómetro 8 + 650
+								Contiguo CELPA – Vía Alterna Interna</li>
+							<li>Teléfono Fijo:(2) 241 4170</li>
+							<li>Móvil: 311 330 7296 – 313 737 2562 – 311 330 7290</li>
+							<li>Email: comercial@letratiempo.com</li>
+						</ul>
 					</li>
-					<li class="icon fa-heart">
-						<h3>Aenean Primis</h3>
-						<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo
-							Aenean ligula consequat consequat.</p>
+					<li class="icon solid fa-home">
+						<h3>Manizales</h3>
+						<ul>
+							<li>Calle 110 # 34 A-75, Barrio La Enea</li>
+							<li>Móvil: 311 349 6522 – 311 330 7305 – 311 349 6493</li>
+							<li>Email: manizales@lttletratiempo.com – manizales2@lttletratiempo.com</li>
+						</ul>
 					</li>
-					<li class="icon fa-flag">
-						<h3>Tortor Ut</h3>
+					<li class="icon solid fa-home">
+						<h3>Buga</h3>
+						<ul>
+							<li>Carrera 24 # 13-35 Barrio Palo Blanco</li>
+							<li>Teléfono: (2) 239 16 01</li>
+							<li>Móvil: 311 330 7331</li>
+							<li>Email: agenciabuga@lttletratiempo.com</li>
+						</ul>
 						<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo
 							Aenean ligula consequat consequat.</p>
 					</li>
