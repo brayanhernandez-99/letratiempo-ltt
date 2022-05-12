@@ -1874,7 +1874,7 @@ header.major h3,
 header.major h4,
 header.major h5,
 header.major h6 {
-  border-bottom: solid 2px #fff;
+  border-bottom: solid 2px #991720;
   display: inline-block;
   padding-bottom: 1em;
   position: relative;
@@ -2170,12 +2170,30 @@ input[type="radio"] + label:before {
   }
 }
 
+/*Start Brayan*/
+ul.features h1,
+ul.features h2,
+ul.features h3,
+ul.features h4,
+ul.features h5,
+ul.features h6 {
+  border-bottom: solid 2px #fff;
+}
+
+#agencies ul {
+  background-color: #991720;
+  border-color: #fff;
+}
+
+/*End Brayan*/
+
 .icon.style1 {
   color: #00ffcc;
 }
 
 .icon.style2 {
   color: #991720;
+  border-color: #991720;
 }
 
 .icon.style3 {
@@ -3591,7 +3609,7 @@ body.is-menu-visible #menu {
 
 #header nav > ul > li > a {
   border: 0;
-  color: #fff;
+  color: #ffffff;
   display: block;
   font-size: 0.8em;
   letter-spacing: 0.225em;
@@ -3982,15 +4000,15 @@ body.is-mobile #main > header {
 }
 
 #footer .icons a {
-  color: rgba(255, 255, 255, 0.5);
+  color: #919195;
 }
 
 #footer .icons a:hover {
-  color: #fff;
+  color: #991720;
 }
 
 #footer .copyright {
-  color: rgba(255, 255, 255, 0.5);
+  color: #919195;
   font-size: 0.8em;
   letter-spacing: 0.225em;
   list-style: none;
@@ -3999,7 +4017,7 @@ body.is-mobile #main > header {
 }
 
 #footer .copyright li {
-  border-left: solid 1px rgba(255, 255, 255, 0.5);
+  border-left: solid 1px #919195;
   display: inline-block;
   line-height: 1em;
   margin-left: 1em;
@@ -4017,7 +4035,7 @@ body.is-mobile #main > header {
 }
 
 #footer .copyright li a:hover {
-  color: #fff;
+  color: #991720;
 }
 
 @media screen and (max-width: 480px) {
