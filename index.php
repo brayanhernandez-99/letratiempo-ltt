@@ -5,6 +5,7 @@
 
 <?php include 'resources\header.php' ?>
 
+
 <body class="landing is-preload">
 
 	<!-- Page Wrapper -->
@@ -19,24 +20,16 @@
 				<p>En LTT Somos líderes<br />
 					en el transporte terrestre de carga<br />
 					conoce mas sobre nosotros y contactanos </p>
-				<ul class="actions special">
-					<li>
-						<a href="<?php include 'resources\whatsApp.php' ?>" target="_blank"><img src="https://static.wixstatic.com/media/3b1150_a9e9b12e662c4c469c0cb593c63255ab~mv2.png/v1/fill/w_326,h_114,al_c,q_85,usm_0.66_1.00_0.01/BOTON%20WHATSAPP.webp" width="160" height="60"></a>
-						<a href="https://www.whatsapp.com/?lang=es" class="button primary icon brands fa-whatsapp" target="_blank">Escribenos</a>
-					</li>
-				</ul>
-				<ul class="icons">
-				</ul>
 			</div>
 			<a href="#one" class="more scrolly">saber más</a>
 		</section>
 
 		<!-- One -->
-		<section id="one" class="wrapper style2 special">
+		<section id="one" class="wrapper style1 special">
 			<div class="inner">
 				<header class="major">
 					<h2>Lo que hacemos por usted</h2>
-					<p>Transporte Terrestre de Carga Seca y Líquida en Colombia</p>
+					<p style="color: #000">Transporte Terrestre de Carga Seca y Líquida en Colombia</p>
 				</header>
 				<ul class="icons major">
 					<li><span class="icon solid fa-tint major style2"><span class="label">Lorem</span></span></li>
@@ -47,7 +40,7 @@
 		</section>
 
 		<!-- Two -->
-		<section id="two" class="wrapper alt style2">
+		<section id="two" class="wrapper style1 alt">
 
 			<section class="spotlight">
 				<div class="image"><img src="images/pic01.jpg" alt="Carga Líquida" /></div>
@@ -88,11 +81,11 @@
 					</header>
 				</div>
 			</section>
-			
+
 		</section>
 
 		<!-- Three -->
-		<section id="agencies" class="wrapper style2 special">
+		<section id="agencies" class="wrapper style1 special">
 			<div class="inner">
 				<header class="major">
 					<h2>Agencias</h2>
@@ -170,7 +163,6 @@
 				</ul>
 			</div>
 		</section>
-
 		<?php include 'resources\footer.php' ?>
 	</div>
 
