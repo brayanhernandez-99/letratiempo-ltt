@@ -1,7 +1,7 @@
 <!-- Nav -->
 
 <header id="header" class="alt">
-    <h1><a href="index.php">Letra Tiempo LTT</a></h1>
+    <h1><a href="#banner">Letra Tiempo LTT</a></h1>
     <nav id="nav">
         <ul>
             <li class="special">

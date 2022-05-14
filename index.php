@@ -17,9 +17,10 @@
 		<section id="banner">
 			<div class="inner">
 				<h2>Letra Tiempo LTT</h2>
-				<p>En LTT Somos líderes<br />
-					en el transporte terrestre de carga<br />
-					conoce mas sobre nosotros y contactanos </p>
+				<p>En LTT Somos líderes<br>
+					en el transporte terrestre de carga<br>
+					conoce mas sobre nosotros y contactanos
+				</p>
 			</div>
 			<a href="#one" class="more scrolly">saber más</a>
 		</section>
@@ -29,28 +30,28 @@
 			<div class="inner">
 				<header class="major">
 					<h2>Lo que hacemos por usted</h2>
-					<p style="color: #000">Transporte Terrestre de Carga Seca y Líquida en Colombia</p>
+					<ul class="icons major">
+						<li><span class="icon solid fa-tint major style1"></span></li>
+						<li><span class="icon solid fa-box major style1"></span></li>
+						<li><span class="icon solid solid fa-map-marker-alt major style1"></span></li>
+					</ul>
+					<p>Transporte Terrestre de Carga Seca, Líquida y
+						<a href="http://sitrac.trafficmanager.net:81/sitrac/Default.aspx" target="_blank"><span class="label">seguimiento de carga</span></a>
+						en Colombia.
+					</p>
 				</header>
-				<ul class="icons major">
-					<li><span class="icon solid fa-tint major style2"><span class="label">Lorem</span></span></li>
-					<li><span class="icon solid fa-box major style2"><span class="label">Ipsum</span></span></li>
-					<li><span class="icon solid solid fa-map-marker-alt major style2"><span class="label">Dolor</span></span></li>
-				</ul>
 			</div>
 		</section>
 
 		<!-- Two -->
 		<section id="two" class="wrapper style1 alt">
-
 			<section class="spotlight">
 				<div class="image"><img src="images/pic01.jpg" alt="Carga Líquida" /></div>
 				<div class="content">
 					<header class="major">
 						<h2>Carga Líquida</h2>
-						<p>Contamos con los equipos, infraestructura, experiencia y permisos para transportar:
-							<br>
-							Leche líquida, café, melaza, miel, agua, suero, aceite de palma, aceite de maíz, entre otros productos alimenticios.
-							<br>
+						<p>Contamos con los equipos, infraestructura, experiencia y permisos para transportar:<br>
+							Leche líquida, café, melaza, miel, agua, suero, aceite de palma, aceite de maíz, entre otros productos alimenticios.<br>
 							También, otros productos como: Glicerina, soda caustica, aceite mineral, biodiesel, sebo, silicato, entre otros.
 						</p>
 					</header>
@@ -62,10 +63,8 @@
 				<div class="content">
 					<header class="major">
 						<h2>Carga Seca</h2>
-						<p>Entre los principales productos que hemos movilizado cabe destacar los siguientes:
-							<br>
-							Trigo, azúcar, maíz, chocolate, cacao, sal, alimentos empacados, pasta, harina de trigo, harina de arroz, harina de maíz, cebada, torta de soya, entre otros productos alimenticios.
-							<br>
+						<p>Entre los principales productos que hemos movilizado cabe destacar los siguientes:<br>
+							Trigo, azúcar, maíz, chocolate, cacao, sal, alimentos empacados, pasta, harina de trigo, harina de arroz, harina de maíz, cebada, torta de soya, entre otros productos alimenticios.<br>
 							También poseemos amplias operaciones de transporte de: Abono, tejas, hierro, yeso, urea, dolomita, chatarra, jabón y detergentes, laminas, carbón, madera, cal, empaquetados, estibas, fertilizantes, fibras sintéticas, tubería, entre otros.
 						</p>
 					</header>
@@ -73,7 +72,11 @@
 			</section>
 
 			<section class="spotlight">
-				<div class="image"><img src="images/pic03.jpg" alt="Localice su Carga" /></div>
+				<div class="image">
+					<a href="http://sitrac.trafficmanager.net:81/sitrac/Default.aspx" target="_blank">
+						<img src="images/pic03.jpg" alt="Localice su Carga" />
+					</a>
+				</div>
 				<div class="content">
 					<header class="major">
 						<h2>Localice su Carga</h2>
@@ -81,7 +84,6 @@
 					</header>
 				</div>
 			</section>
-
 		</section>
 
 		<!-- Three -->
@@ -163,6 +165,7 @@
 				</ul>
 			</div>
 		</section>
+
 		<?php include 'resources\footer.php' ?>
 	</div>
 

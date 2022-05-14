@@ -171,8 +171,7 @@ html {
 }
 
 body {
-  background: #fff;
-  /*background: #2e3842;*/
+  background: #fdfdf6;
 }
 
 body.is-preload *,
@@ -1851,7 +1850,6 @@ article.special {
 }
 
 header p {
-  /*color: rgba(255, 255, 255, 0.5);*/
   position: relative;
   top: -0.25em;
 }
@@ -1892,8 +1890,15 @@ header.major h6:after {
 }
 
 header.major p {
-  /*color: #fff;*/
   top: 0;
+}
+
+header.major a {
+  border-color: #991720;
+}
+
+header.major a:hover {
+  color: #991720;
 }
 
 @media screen and (max-width: 736px) {
@@ -1920,6 +1925,7 @@ label {
   font-size: 0.9em;
   font-weight: 600;
   margin: 0 0 1em 0;
+  padding: 6em 0 4em 0;
 }
 
 input[type="text"],
@@ -2581,7 +2587,7 @@ input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 button.primary:hover,
 .button.primary:hover {
-  background-color: #df202c !important;
+  background-color: #f03642 !important;
 }
 
 input[type="submit"].primary:active,
@@ -2782,43 +2788,43 @@ button:disabled,
 }
 
 .spotlight:nth-child(1) {
-  background-color: rgba(0, 0, 0, 0.075);
+  background-color: rgba(255, 0, 0, 0.075);
 }
 
 .spotlight:nth-child(2) {
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: rgba(255, 0, 0, 0.15);
 }
 
 .spotlight:nth-child(3) {
-  background-color: rgba(0, 0, 0, 0.225);
+  background-color: rgba(255, 0, 0, 0.225);
 }
 
 .spotlight:nth-child(4) {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(255, 0, 0, 0.3);
 }
 
 .spotlight:nth-child(5) {
-  background-color: rgba(0, 0, 0, 0.375);
+  background-color: rgba(255, 0, 0, 0.375);
 }
 
 .spotlight:nth-child(6) {
-  background-color: rgba(0, 0, 0, 0.45);
+  background-color: rgba(255, 0, 0, 0.45);
 }
 
 .spotlight:nth-child(7) {
-  background-color: rgba(0, 0, 0, 0.525);
+  background-color: rgba(255, 0, 0, 0.525);
 }
 
 .spotlight:nth-child(8) {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(255, 0, 0, 0.6);
 }
 
 .spotlight:nth-child(9) {
-  background-color: rgba(0, 0, 0, 0.675);
+  background-color: rgba(255, 0, 0, 0.675);
 }
 
 .spotlight:nth-child(10) {
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: rgba(255, 0, 0, 0.75);
 }
 
 @media screen and (max-width: 1280px) {
@@ -2886,7 +2892,7 @@ button:disabled,
 }
 
 .wrapper.style1 {
-  background-color: #fff;
+  background-color: #fdfdf6;
   color: #000;
 }
 
@@ -2936,15 +2942,15 @@ button:disabled,
 }
 
 .wrapper.style1 .icon.major {
-  border-color: rgba(0, 0, 0, 0.125);
+  border-color: #991720;
 }
 
 .wrapper.style1 ul.alt li {
-  border-color: rgba(0, 0, 0, 0.125);
+  border-color: #991720;
 }
 
 .wrapper.style1 table tbody tr {
-  border-color: rgba(0, 0, 0, 0.125);
+  border-color: #991720;
 }
 
 .wrapper.style1 table tbody tr:nth-child(2n + 1) {
@@ -3035,6 +3041,10 @@ button:disabled,
 #menu ul {
   list-style: none;
   padding: 0;
+}
+
+#menu li:hover {
+  transform: translate(-10px, -10px);
 }
 
 #menu ul > li {
@@ -3132,10 +3142,15 @@ body.is-menu-visible #menu {
 }
 
 #header h1 a {
+  color: #fff;
   border: 0;
   display: block;
   height: inherit;
   line-height: inherit;
+}
+
+#header li.special a {
+  color: #fff;
 }
 
 @media screen and (max-width: 736px) {
@@ -3145,6 +3160,7 @@ body.is-menu-visible #menu {
 }
 
 #header nav {
+  color: #fff;
   height: inherit;
   line-height: inherit;
   position: absolute;
@@ -3166,7 +3182,6 @@ body.is-menu-visible #menu {
 
 #header nav > ul > li > a {
   border: 0;
-  color: #fff;
   display: block;
   font-size: 0.8em;
   letter-spacing: 0.225em;
@@ -3689,18 +3704,15 @@ body.is-mobile.landing #footer {
   background-color: #1d242a;
 }
 
-ul.features h1,
-ul.features h2,
-ul.features h3,
-ul.features h4,
-ul.features h5,
-ul.features h6 {
-  color: #fff;
-  border-bottom: solid 2px #991720;
+#agencies ul {
+  background-color: #991720;
 }
 
-#agencies features {
+#agencies h3 {
   color: #fff;
-  background-color: #991720;
-  border-color: #fff;
+  border-bottom: solid 2px #fff;
+}
+
+#agencies ul.features p {
+  color: #fff;
 }
